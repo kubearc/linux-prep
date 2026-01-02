@@ -31,3 +31,7 @@ The `httpd` service is running on non-standard port **82**, but the system is un
 - Output of:
   ```bash
   curl localhost:82/file1
+should be:
+```
+Welcome to the EX200 Exam!
+```
