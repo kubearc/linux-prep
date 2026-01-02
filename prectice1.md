@@ -16,8 +16,8 @@ Configure the network with the following details:
 
 ### Question 2: Yum Repository Configuration
 Configure yum repositories using the following URLs:
-- http://content.example.com/rhel8.0/x86_64/dvd/BaseOS
-- http://content.example.com/rhel8.0/x86_64/dvd/AppStream
+- http://content.example.com/rhel9/x86_64/dvd/BaseOS
+- http://content.example.com/rhel9/x86_64/dvd/AppStream
 
 ---
 
