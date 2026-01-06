@@ -47,3 +47,16 @@ Welcome to the EX200 Exam!
 ### Question 6: Collaborative Directory
 Create /common/admin with sysadmin group ownership and SGID.
 
+### Question 7: Configure NTP
+Configure NTP client:
+utility.domain0.example.com
+
+### Question 8: Find Command
+Copy files owned by simone to /root/found
+
+### Question 9: Configure AutoFS
+Automount remoteuser5 home from:
+node1.domain5.example.com:/rhome/remoteuser5
+
+### Question 10: User with Specific UID
+User james, UID 2112, password sestiver
