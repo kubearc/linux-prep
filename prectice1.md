@@ -60,3 +60,18 @@ node1.domain5.example.com:/rhome/remoteuser5
 
 ### Question 10: User with Specific UID
 User james, UID 2112, password sestiver
+
+### Question 11: Sudo Privilege
+Group elite passwordless sudo
+
+### Question 12: Archiving Data
+Create /root/data.tar.bz2 from /var/tmp
+
+### Question 13: Password Expiry
+Set new user password expiry to 20 days
+
+### Question 14: Working with Strings
+Copy lines containing 'wired' to /tmp/data
+
+### Question 15: Simple Shell Script
+Create mysearch script under /usr/local/bin
